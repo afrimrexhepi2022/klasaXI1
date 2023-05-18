@@ -2,4 +2,9 @@ shembull nga klasa XI1
 
 
 
+<<<<<<< HEAD
 edi
+=======
+
+edi toska
+>>>>>>> 59e08ed (edi ndryshim)
